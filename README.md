@@ -12,8 +12,6 @@ Sitharaman Deepak Guptha
 
 ## Usage
 
----
-
 ## Installation
 
 ### Install the dependencies
